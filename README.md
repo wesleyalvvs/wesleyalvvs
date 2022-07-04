@@ -1,3 +1,2 @@
-- Hi, I’m @wesleyalvvs
-- I’m interested in Artificial inteligence, machine learning and data science.
-- I’m currently learning about data science using Python.
+I am Wesley. I am an undergrad computer engineering student at UFPB (Brasil).
+I’m currently learning more about data science and Artficial inteligence.
