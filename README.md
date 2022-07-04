@@ -1,0 +1,3 @@
+- Hi, I’m @wesleyalvvs
+- I’m interested in Artificial inteligence, machine learning and data science.
+- I’m currently learning about data science using Python.
