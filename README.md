@@ -2,7 +2,7 @@
 
 - Possuo experiências com as linguagens de programação C e C++ e atualmente estou aprendendo Python.
 
-- Tenho interesses nas áreas de inteligência artificial e ciência de dados.
+- Tenho interesse nas áreas de inteligência artificial, ciência de dados  e engenharia de software.
 
 
 </p>
