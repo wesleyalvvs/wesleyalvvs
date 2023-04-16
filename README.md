@@ -1,6 +1,7 @@
 ## Hi there 👋
 <h3 align=>My name is Wesley Alves. I am currently graduating in Computer Engineering at Universidade Federal da Paraíba - Brazil</h3>
 
+- 🌱 
 
 
 </p>
